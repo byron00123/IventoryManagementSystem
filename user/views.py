@@ -52,3 +52,6 @@ def profile_update(request):
    return render(request, 'user/profile_update.html', context)
 
 
+
+
+
